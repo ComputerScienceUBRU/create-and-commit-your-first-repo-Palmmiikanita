@@ -2,6 +2,8 @@
 57122420503
 ## ชื่อ-นามสกุล
 Kanita Sothin
+# ชื่อเล่น
+Palmmii
 
 # Header 1
 ## Header 2
